@@ -1,2 +1,1 @@
-hello shubham
-my project is awesome
+Notebook 1,2 & 3 of assignment 1 of Math Data project has been submitted.
